@@ -10,5 +10,7 @@ package com.jonah.linkedlist;
  * @author jonah
  */
 public class ListTester {
-	
+	public static void main(String[] args){
+		System.out.println("Hello, world!");
+	}
 }
