@@ -2,7 +2,7 @@
 	My attempt at creating a linked list. Made for Mr. Kuszmaul's *Data Structures* class
 
 ## Files
-#####ListTester.java
+##### ListTester.java
 - The file contains tests for the `LinkedList` class
-#####LinkedList.java
+##### LinkedList.java
 - The file contains the `LinkedList` class
