@@ -1,5 +1,5 @@
 # LinkedList_JB
-	My attempt at creating a linked list. Made for Mr. Kuszmaul's *Data Structures* class
+&nbsp;&nbsp;&nbsp;&nbsp;My attempt at creating a linked list. Made for Mr. Kuszmaul's *Data Structures* class
 
 ## Files
 ##### ListTester.java
