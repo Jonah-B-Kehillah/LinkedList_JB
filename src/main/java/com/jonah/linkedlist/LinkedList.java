@@ -9,6 +9,7 @@ package com.jonah.linkedlist;
  *
  * @author jonah
  */
-public class LinkedList {
+
+public class LinkedList<AnyClass> {
 	
 }
