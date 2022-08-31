@@ -12,4 +12,6 @@ package com.jonah.linkedlist;
 
 public class LinkedList<AnyClass> {
 	
+	private Node head;
+	
 }
