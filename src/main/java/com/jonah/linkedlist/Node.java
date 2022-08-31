@@ -9,6 +9,13 @@ package com.jonah.linkedlist;
  *
  * @author jonah
  */
-public class Node {
+public class Node<AnyClass> {
+	
+	public AnyClass value;
+	private Node next;
+	
+	Node(AnyClass _value) {
+		value = _value;
+	}
 	
 }
