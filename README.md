@@ -6,3 +6,5 @@ My attempt at creating a linked list. Made for Mr. Kuszmaul's *Data Structures* 
 - The file contains tests for the `LinkedList` class
 ##### LinkedList.java
 - The file contains the `LinkedList` class
+##### Node.java
+- The file contains the `Node` class
